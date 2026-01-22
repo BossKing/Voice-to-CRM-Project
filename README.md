@@ -12,6 +12,13 @@ A **voice-first Progressive Web App** that converts speech into structured CRM d
 
 ---
 
+<img src="https://raw.githubusercontent.com/user-attachments/assets/16262ff3-d6ef-43e7-a2ce-452a63f5da62" width="600">
+<img src="https://raw.githubusercontent.com/user-attachments/assets/0737ddcf-4c4d-4992-8263-d999152aabf6" width="600">
+<img src="https://raw.githubusercontent.com/user-attachments/assets/19d5d4ac-e329-425d-a0ce-c43e909cf977" width="600">
+
+
+
+
 ## Setup
 
 ### Prerequisites
@@ -34,8 +41,6 @@ npm start  # opens http://localhost:3000
 
 
 
-<img src="https://raw.githubusercontent.com/user-attachments/assets/16262ff3-d6ef-43e7-a2ce-452a63f5da62" width="600">
-<img src="https://raw.githubusercontent.com/user-attachments/assets/0737ddcf-4c4d-4992-8263-d999152aabf6" width="600">
-<img src="https://raw.githubusercontent.com/user-attachments/assets/19d5d4ac-e329-425d-a0ce-c43e909cf977" width="600">
+ 
 
 

@@ -12,9 +12,8 @@ A **voice-first Progressive Web App** that converts speech into structured CRM d
 
 ---
 
-![Screenshot 1](https://raw.githubusercontent.com/user-attachments/assets/16262ff3-d6ef-43e7-a2ce-452a63f5da62)
-![Screenshot 2](https://raw.githubusercontent.com/user-attachments/assets/0737ddcf-4c4d-4992-8263-d999152aabf6)
-![Screenshot 3](https://raw.githubusercontent.com/user-attachments/assets/19d5d4ac-e329-425d-a0ce-c43e909cf977)
+
+![web application screenshots](https://github.com/user-attachments/assets/5508d4ee-896d-48e9-94c4-6ef4a1716665)
 
 
 
